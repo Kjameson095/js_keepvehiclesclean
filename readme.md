@@ -1,0 +1,1 @@
+Place the folder in your resources folder and start the resource in the server.cfg
